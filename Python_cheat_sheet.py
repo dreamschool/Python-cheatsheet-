@@ -18,6 +18,26 @@ from math import *
 #   //
 #  //
 # //
+# New shit
+
+while ():
+    if ():
+        break
+# since when did break exist!!! It wouldve made everything 
+# so much easier
+
+# \\
+#  \\
+#   \\
+#   //
+#  //
+# //
+# \\
+#  \\
+#   \\
+#   //
+#  //
+# //
 # CMD PYTHON INTERPRETER
 #type in python3 into the CMD
 #google how to add python3 to windows path variable
