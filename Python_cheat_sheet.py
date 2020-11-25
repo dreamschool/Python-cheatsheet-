@@ -536,15 +536,15 @@ print ("0 index: " + phrase_one[0]) # prints the letter of the index
 # //
 # JENNA NOTES
 
-teeth = 12
+teeth = 19
 melons = 27
-bannanas = "fear god"
+bannanas = "fear Batman"
 
 # you can use commas to put variables in spaces
 print (teeth,"teeth",teeth,"teeth")
 
 # Use {} and .format() to replace each {} with a format fill
-print ("Oranges {}, {}, and {}, are turning the frogs gay".format(teeth, melons, bannanas, "yes"))
+print ("Oranges {}, {}, and {}, are turning the friggin frogs gay!!!".format(teeth, melons, bannanas, "yes"))
 
 # use f to place these values inside the brackets
-print (f"god is good ({melons}), and god is {teeth}. {bannanas}")
+print (f"god is imaginary ({melons}), and god is {teeth}. {bannanas}")
